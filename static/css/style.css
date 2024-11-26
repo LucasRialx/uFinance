@@ -1,0 +1,23 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    color: #f8f9fa;
+}
+
+body {
+    background-image: url('/static/img/background.jpg'); /* Substitua pelo caminho da sua imagem */
+    background-size: cover; /* Faz a imagem cobrir toda a área */
+    background-position: center; /* Centraliza a imagem */
+    background-repeat: no-repeat; /* Evita repetição da imagem */
+    background-attachment: fixed; /* Mantém o fundo fixo ao rolar */
+}
+
+
+h1 {
+    color: #f8f9fa;
+    font-weight: bold;
+}
+
+.container {
+    margin-top: 50px;
+}
