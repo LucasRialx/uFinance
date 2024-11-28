@@ -48,16 +48,6 @@ Acesse no navegador:
 
 http://127.0.0.1:5000
 
-Estrutura do Projeto
-Copiar código
-├── templates/
-│   ├── index.html
-│   ├── last_close.html
-│   ├── historical_data.html
-├── app.py
-├── requirements.txt
-└── README.md
-
 ##Exemplo de Uso
 
 Último preço de fechamento: Insira o código da ação (ex.: AAPL) e veja o preço mais recente.
