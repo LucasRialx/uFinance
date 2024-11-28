@@ -3,7 +3,7 @@ from flask import Flask, render_template, request
 
 app = Flask(__name__)
 
-API_KEY = "UC0NTB1I4ZRRVL3T"
+API_KEY = "SUA_CHAVE_API"
 BASE_URL = "https://www.alphavantage.co/query"
 
 def get_last_close(ticker):
